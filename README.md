@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **raje754912@gmail.com**
 
-- ⚡ Fun fact **I am funny.**
+- ⚡ Fun fact **I am a creative person.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,7 +25,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,github,vscode,netlify,codepen,npm & line=5" />
   </a>
@@ -34,11 +34,11 @@
 
 # 📊 GitHub Stats:
 
-<p align="ecnter">
+<p >
   
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajeshdeo&show_icons=true&locale=en" alt="rajeshdeo" width="48%">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshdeo&" alt="rajeshdeo"width="48%" />
+<img  src="https://github-readme-stats.vercel.app/api?username=rajeshdeo&show_icons=true&locale=en&theme=tokyonight&border_radius=10" alt="rajeshdeo" width="48%">
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshdeo&show_icons=true&locale=en&theme=tokyonight&border_radius=10" alt="rajeshdeo"width="48%" />
 
 <br />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajeshdeo&show_icons=true&locale=en&layout=compact" alt="rajeshdeo" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=rajeshdeo&show_icons=true&show_icons=true&locale=en&theme=tokyonight&border_radius=10" alt="rajeshdeo" align="center"  />
 </p>
