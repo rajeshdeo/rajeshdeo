@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rajesh kumar" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="rajesh kumar" height="40" width="40" /></a>
+<a href="www.linkedin.com/in/rajesh-kumar-801161258" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="rajesh kumar" height="40" width="40" /></a>
   <a href="https://github.com/rajeshdeo" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github&theme=light" alt="rajesh kumar" height="40" width="40" /></a>
 </p>
 
