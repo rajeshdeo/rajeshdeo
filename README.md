@@ -36,9 +36,9 @@
 
 <p >
   
-<img  src="https://github-readme-stats.vercel.app/api?username=[rajeshdeo]&show_icons=true&locale=en&theme=tokyonight&border_radius=10" alt="rajeshdeo" width="48%">
+<img  src="https://github-readme-stats.vercel.app/api?username=rajeshdeo&show_icons=true&locale=en&theme=tokyonight&border_radius=10" alt="rajeshdeo" width="48%">
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshdeo&show_icons=true&locale=en&theme=tokyonight&border_radius=10" alt="rajeshdeo"width="48%" />
 
 <br />
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=[rajeshdeo]&show_icons=true&show_icons=true&locale=en&theme=tokyonight&border_radius=10" alt="rajeshdeo" align="center"  />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=rajeshdeo&show_icons=true&show_icons=true&locale=en&theme=tokyonight&border_radius=10" alt="rajeshdeo" align="center"  />
 </p>
