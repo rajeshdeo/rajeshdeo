@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [a relative link][https://rajeshdeo.github.io/](https://rajeshdeo.github.io/)
+- 👨‍💻 All of my projects are available at [https://rajeshdeo.github.io/](https://rajeshdeo.github.io/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React JS**
 
